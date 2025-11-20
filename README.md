@@ -29,7 +29,7 @@ Interpretation of coefficients and model significance
 Source: SkillCraft – StarCraft II Player Dataset (Kaggle)
 Records: ~3,338 (after cleaning: ~3,310)
 Features: 19 continuous gameplay metrics
-https://www.kaggle.com/datasets/skillcraft/skillcraft1-starcraft-ii-player-ratings.
+[(https://www.kaggle.com/datasets/danofer/skillcraft)](https://www.kaggle.com/datasets/danofer/skillcraft)
 
 #📊 Key Findings
 
